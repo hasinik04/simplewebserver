@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b40989b8-15e7-4821-ac6d-766788bd23fb)# EX01 Developing a Simple Webserver
+![Screenshot 2025-04-28 160824](https://github.com/user-attachments/assets/544a4673-2d07-4fff-8101-109fb8762a70)# EX01 Developing a Simple Webserver
 ## Date:
 
 ## AIM:
@@ -123,13 +123,14 @@ content='''
 
 </body>
 </html>
-'''
+```
 
 
 ## OUTPUT:
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-04-28 160824.png"
-"C:\Users\admin\Pictures\Screenshots\Screenshot 2025-04-28 160812.png"
 
+
+![Screenshot 2025-04-28 160824](https://github.com/user-attachments/assets/be1f51b1-22e5-4769-a6bf-163720e1a35b)
+![Screenshot 2025-04-28 160812](https://github.com/user-attachments/assets/ba395ebf-b016-40d3-8f2a-d175f6a6ed54)
 
 
 ## RESULT:
